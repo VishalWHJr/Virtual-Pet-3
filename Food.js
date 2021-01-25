@@ -4,7 +4,7 @@ class Food {
         this.foodStock = 20;
         this.lastFed = 0;
         this.x=0;
-        this.image = loadImage("milk.png");
+        this.image = loadImage("Milk.png");
        
     }
 
